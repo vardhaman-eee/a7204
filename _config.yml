@@ -21,12 +21,12 @@
 #  algorithms and data structures (dictionaries, arrays, linked lists).
 #  Student learn these concepts through studying the Python programming
 #  language.  
-baseurl: "/a6210" # the subpath of your site, e.g. /blog
+baseurl: "/a7204" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-number: A6210
-title: Control Systems
-semester: II-II (2021-2022)
+number: A7204
+title: Fundamentals of Electrical Engineering
+semester: I-II (2021-2022)
 
 navigation:
   - title: Overview
@@ -58,10 +58,10 @@ navigation:
 
 instructors:
   - id: srv
-    name: Mr. B. Rajagopal Reddy
-    email: b.rajagopalreddy@vardhaman.org
+    name: Dr. Md Asif
+    email: asif_eee@vardhaman.org
     #web: http://wwww.example.com
-    phone: +91 99497 77062
+    phone: +91 97015026805
 
 offerings:
   - name: LECTURE
