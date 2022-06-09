@@ -54,11 +54,11 @@ A7204.4 Test the performance of DC Machines, 1-Phase Transformers and AC Machine
 
 ## <a name="lecturenotes">Lecture Notes</a>
 
-1. Unit I [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Unit II [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Unit III [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Unit IV [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Unit V [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Unit I [Download](https://vardhamancoe.sharepoint.com/:b:/s/IT-B/EZVcvS-zuwdMhlbamfLvySoBmvrxX9SyZVDj0qc9vBaACw?e=NduJEM)
+2. Unit II [Download](https://vardhamancoe.sharepoint.com/:b:/s/IT-B/EQL3tdbq65BMl_k7FnsO66sB56ZACgERQfJSZzk4OWFVZA?e=jotv7k)
+3. Unit III [Download](https://vardhamancoe.sharepoint.com/:b:/s/IT-B/ERkYjweZ28xCjJZiyWIwUYYBLMGu3h9qCw1w_xXmvPrP5Q?e=JIa6FW)
+4. Unit IV [Download](https://vardhamancoe.sharepoint.com/:b:/s/IT-B/Ebx_z3eAAU1BsM6ysCJV1bgBXCOIrBtdFK6rIAAHf5Ii2A?e=o5WfgL)
+5. Unit V [Download](https://vardhamancoe.sharepoint.com/:b:/s/IT-B/EZn5gxou5eNHjybT-Sf3IlMBGAKj2-7KjpOD7UXGthzDOA?e=ZZK1G8)
 
 <hr>
 
@@ -79,19 +79,20 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 
 ## <a name="practice">Practice</a>
 
-1. Verification of Ohm’s Law. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-2. Verification of Thevenin’s theorems. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-3. Verification of superposition theorems. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-4. Verification of Norton’s theorems. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-5. Verification of KVL and KCL. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-6. Calculations and Verification of Impedance, Voltage and Current of RL, RC series circuits. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-7. Load Test on Single Phase Transformer. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-8. O.C. & S.C. Tests on Single phase Transformer. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-9. Torque-Speed Characteristics of a DC Compound Motor. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-10. Brake test on a 3 phase Induction Motor. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-11. Performance Characteristics of a Separately Excited DC Motor. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
-12. No-Load Characteristics of a Three-phase Alternator. [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link)
+1. Verification of Ohm’s Law.
+2. Verification of Thevenin’s theorems.
+3. Verification of superposition theorems. 
+4. Verification of Norton’s theorems. 
+5. Verification of KVL and KCL. 
+6. Calculations and Verification of Impedance, Voltage and Current of RL, RC series circuits.
+7. Load Test on Single Phase Transformer. 
+8. O.C. & S.C. Tests on Single phase Transformer. 
+9. Torque-Speed Characteristics of a DC Compound Motor. 
+10. Brake test on a 3 phase Induction Motor. 
+11. Performance Characteristics of a Separately Excited DC Motor. 
+12. No-Load Characteristics of a Three-phase Alternator. 
 
+Lab Manual [Download](https://vardhamancoe.sharepoint.com/:b:/s/IT-B/ET7qJuEDFwxMtlgf3m5UQ2YBfkcPvMjW0zKzQDiP06Kx_A?e=YDyZ6a)
 
 **Lab attendance is required**.
 
@@ -99,5 +100,5 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 
 | #  | Name | Question Paper | Schema  |
 |:--:|-----||:--------:|:---:|
-|1 | CAT - I | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
-|2 | CAT - II | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | [Download](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) |
+|1 | CAT - I | [Download](#link) | [Download](#link) |
+|2 | CAT - II | [Download](#link) | [Download](#link) |

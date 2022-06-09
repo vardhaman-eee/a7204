@@ -58,10 +58,10 @@ navigation:
 
 instructors:
   - id: srv
-    name: Dr. Md Asif
-    email: asif_eee@vardhaman.org
+    name: Dr. B. Praveenkumar
+    email: praveenkumar.b@vardhaman.org
     #web: http://wwww.example.com
-    phone: +91 97015026805
+    phone: +91 96296 32445
 
 offerings:
   - name: LECTURE
