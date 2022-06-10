@@ -72,10 +72,10 @@ both use 1 late day. Note that late days are intended to cover both normal circu
 
 | #  | Name | Assigned | Due |
 |:--:|-----||:--------:|:---:|
-|1 | [Info Sheet](https://docs.google.com/forms/d/e/1FAIpQLSdtxgmw2tL6IzzK0qq3Fw2h2FTFmGHoTRs8p6wTfTToUn7pZg/viewform?usp=sf_link) | W Aug 28 | F Aug 30 |
-|2 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|3 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
-|4 | [Sample Homework]({{site.baseurl}}/homework/function-reading.pdf) | F Sep 27 | W Oct 2 |
+|1 | [Assignment # 1](link) | - | - |
+|1 | [Assignment # 2](link) | - | - |
+|1 | [Assignment # 3](link) | - | - |
+|1 | [Assignment # 4](link) | - | - |
 
 ## <a name="practice">Practice</a>
 
